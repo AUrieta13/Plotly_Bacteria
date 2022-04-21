@@ -1,6 +1,6 @@
 # Plotly_Bacteria
 ## Overview Analysis:
-We helped Roza complete her interactive wehsite by helping her visualize the bacterial data for each volunteer. Roza wants to display the top 10 bacterial species in their belly buttons. If Improbable Species identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
+Completed an interactive wehsite by helping visualize the bacterial data for each volunteer. The goal was to display the top 10 bacterial species in their belly buttons. If Improbable Species identifies a species as a candidate to manufacture synthetic beef, volunteers involved in this study will be able to identify whether that species is found in their navel.
 
 ## Deliverables:
 - Deliverable 1: Create a Horizontal Bar Chart
